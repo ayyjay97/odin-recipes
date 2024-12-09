@@ -1,0 +1,1 @@
+This project is a demonstration of HTML skills that I have learned through The Odin Project. This is a simple website full of recipes. All code is being written in VSCode and implemented through the command line on Linux. I have also learned about Git and Github through TOP.
