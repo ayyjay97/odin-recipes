@@ -4,7 +4,6 @@ body {
     color: black;
     font-size: 20px;
     font-weight: 300;
-    text-align: center;
 }
 
 .button {
@@ -22,3 +21,6 @@ img {
     font-weight: 600;
 }
 
+.center {
+    text-align: center;
+}
