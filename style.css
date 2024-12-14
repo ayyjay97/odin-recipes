@@ -4,11 +4,17 @@ body {
     color: black;
     font-size: 20px;
     font-weight: 300;
+    box-sizing: border-box;
 }
 
 .button {
     background-color: darkslategray;
     color: white;
+    display: block;
+    padding: 12px;
+    margin: 10px auto;
+    height: 40px;
+    width: 250px;
 }
 
 img {
@@ -21,6 +27,7 @@ img {
 .heading {
     font-size: 28px;
     font-weight: 600;
+    display: block;
 }
 
 .center {
@@ -29,9 +36,35 @@ img {
 
 ul {
     list-style-type: none;
+    padding: 0px;
+}
+
+ol {
+    padding: 20px;
 }
 
 #title {
     font-size: 36px;
     color: darkslategray;
+    display: block;
+    margin: 10px auto;
+}
+.name {
+    display: block;
+    margin: 20px auto;
+}
+
+.description {
+    display: block;
+    margin: 20px;
+}
+
+.ingredients {
+    display: block;
+    margin: 20px;
+}
+
+.instructions {
+    display: block;
+    margin: 20px;
 }
